@@ -1,0 +1,14 @@
+{
+  "name": "nengage",
+  "version": "1.0.0",
+  "description": "Engage platform for United Methodist Communications",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matt Crum",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
